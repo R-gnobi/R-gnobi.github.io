@@ -1,9 +1,7 @@
-Origin: Ø³ÙˆØ±Ø³ â€«Ø¬Ù†Û†Ø¨Ù€ÙŠÛ’ ï»£Ì²Ø·Ù†Ù€Û†Ø®
-Label: Ø¬Ù†Û†Ø¨Ù€ÙŠÛ’ ï»£Ì²Ø·Ù†Ù€Û†Ø®
+Origin: ÓæÑÓ ?Ìä?ÈÜíÿ ã?ØäÜ?Î
+Label: Ìä?ÈÜíÿ ã?ØäÜ?Î
 Suite: stable
-Version: 0.9
-Codename: asnr
+Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: Ø¬Ù†Û†Ø¨Ù€ÙŠÛ’ ï»£Ì²Ø·Ù†Ù€Û†Ø®
-Icon: file:///CydiaIcon.png
+Description: Ìä?ÈÜíÿ ã?ØäÜ?Î
