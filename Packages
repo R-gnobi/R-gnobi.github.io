@@ -1,0 +1,17 @@
+Package: io.github.R-gnobi.icleanerpro
+Version: 7.5-1
+Section: Tweaks
+Maintainer: R-gnobi<o@outlook.kr>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Provides: icleanerpro
+Architecture: iphoneos-arm
+Filename: debs//io.github.R-gnobi.icleanerpro_v7.5.0_iphoneos-arm.deb
+Size: 29828
+Installed-Size: 140
+MD5sum: b2c87cf2955742e34b341e3d52a98de0
+Description: «·«œ«… «·„‘ÂÊ—… · ‰ŸÌ› «·ÃÂ«“ „‰ „Œ·›«  «·»—«„Ã.
+depiction: http://R-gnobi.github.io/Depic/icleanerpro/index.html
+name: icleanerpro iOS 8
+tag: cydia::commercial, ios8support::1
+homepage: http://R-gnobi.github.io/Depic/icleanerpro/index.html
+author: R-gnobi <o@outlook.kr>
