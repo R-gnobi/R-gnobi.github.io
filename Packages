@@ -1,1 +1,19 @@
-
+Package: io.github.R-gnobi.appsyncunified
+Version: 5.6-1
+Section: Tweaks
+Maintainer: R-gnobi<o@outlook.kr>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: debs//io.github.R-gnobi.appsyncunified_5.6-1_iphoneos-arm.deb
+Size: 29828
+Installed-Size: 140
+MD5sum: b2c87cf2955742e34b341e3d52a98de0
+Description: «·«œ«… «·„‘ÂÊ—… · À»Ì  «· ÿ»Ìﬁ«  «·„ﬂ—ﬂ….
+depiction: http://R-gnobi.github.io/Depic/AppSync-Unified/index.html
+name: AppSync Unified iOS 8
+tag: cydia::commercial, ios8support::1
+homepage: http://R-gnobi.github.io/Depic/AppSync-Unified/index.html
+author: R-gnobi <o@outlook.kr>
