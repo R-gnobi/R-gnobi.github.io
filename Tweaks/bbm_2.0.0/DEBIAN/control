@@ -1,0 +1,14 @@
+Package: io.github.R-gnobi.BBM+
+Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2)
+Conflicts: io.github.R-gnobi.BBM+
+Name: BBM+
+Version: 1.2-162
+Architecture: iphoneos-arm
+Description: اضافات وخصائص لتطبيق BBM
+Installed-Size: 50510
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Elias Limneos & Josh Tucker <callbar@limneos.net>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: limneos
+
