@@ -1,7 +1,7 @@
-﻿Package: io.github.R-gnobi.BBM+
+Package: io.github.R-gnobi.BBM+
 Name: BBM+
 Architecture: iphoneos-arm
-Description: خصائص لتطبيق البلاك بيري ماسنجر
+Description: BBM+ 
 Hompage: http://R-gnobi.github.io
 #depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
