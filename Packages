@@ -13,3 +13,17 @@ Filename: ./deb/io.github.R-gnobi.BBM+_2.0.0_iphoneos-arm.deb
 Size: 63536
 MD5sum: 8aaa649479951e1e5d9d026f9c680641
 
+Package: io.github.R-gnobi.appsyncunified
+Name: appsyncunified
+Architecture: iphoneos-arm
+Description: تثبيت التطبيقات المدفوعة من خارج متجر البرامج
+Hompage: http://R-gnobi.github.io
+#depiction: http://R-gnobi.github.io
+Maintainer: ramzi <ralslami2012@gmail.com>
+Author: Linus Yang, Karen Tsai 
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Version: 5.8
+Filename: ./deb/io.Github.r-gnobi.appsyncunified_5.8_iphoneos-arm.deb
+Size: 30144
+MD5sum: 85112d081a3b1737571ce2c0f6a96a51
