@@ -43,7 +43,7 @@ Filename: ./deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
 Size: 31696670
 MD5sum: 7f24b609be74db63207912f574ffb4ac
 
-Package: io.github.R-gnobi.instaTools
+Package: io.R-gnobi.github.instaTools
 Name: istaToolsمعربة
 Architecture: iphoneos-arm
 Description: خصائص مميزة للانستقرام
