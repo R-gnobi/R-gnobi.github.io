@@ -1,7 +1,7 @@
 ﻿Package: io.github.R-gnobi.instaTools
 Name: instaTools
 Architecture: iphoneos-arm
-Description: تثبيت التطبيقات المدفوعة من خارج متجر البرامج
+Description: اضافت ومميزات لتطبيق الانستقرام
 Hompage: http://R-gnobi.github.io
 #depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
