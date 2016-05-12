@@ -1,4 +1,4 @@
-Package: io.github.R-gnobi.BBM+
+﻿Package: io.github.R-gnobi.BBM+
 Name: BBM+
 Architecture: iphoneos-arm
 Description: خصائص ومميزات لتطبيق بلاك بيري ماسنجر
@@ -27,3 +27,18 @@ Version: 5.8
 Filename: ./deb/io.Github.r-gnobi.appsyncunified_5.8_iphoneos-arm.deb
 Size: 30144
 MD5sum: 85112d081a3b1737571ce2c0f6a96a51
+
+Package: io.github.R-gnobi.fontarabic
+Name: fontarabic
+Architecture: iphoneos-arm
+Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو
+Hompage: http://R-gnobi.github.io
+#depiction: http://R-gnobi.github.io
+Maintainer: ramzi <ralslami2012@gmail.com>
+Author: جنوبي مطنوخ
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.8.5100)
+Version: 1.5
+Filename: ./deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
+Size: 31696670
+MD5sum: 7f24b609be74db63207912f574ffb4ac
