@@ -29,11 +29,11 @@ Author: جنوبي مطنوخ
 Name: AppSyncunified
 
 Package: io.github.R-gnobi.instaTools
-Version: 5.8
+Version: 1.3.0-1
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
-Filename: //deb/io.github.R-gnobi.appsyncunified_5.8_iphoneos-arm.deb
+Filename: //deb/io.github.R-gnobi.instaTools_1.3.0-1_iphoneos-arm.deb
 Size: 406198
 MD5sum: 92f8abafa1d74dbfa17445b9f9933d76
 SHA1: 59410d6291c2d64c54bb8b815171204dfb6ab892
