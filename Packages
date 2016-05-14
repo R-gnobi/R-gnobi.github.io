@@ -10,7 +10,7 @@ SHA1: a319695438343c47d37709a303f0680c95c8d181
 Section: Tweaks
 Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو.
 Author: جنوبي مطنوخ
-Depiction: http://R-gnobi.github.io
+#Depiction: http://R-gnobi.github.io
 Name: Font Arabic
 
 Package: io.github.R-gnobi.appsyncunified
@@ -25,7 +25,7 @@ SHA1: 0c9ff917ba24c3b5625a34de17e584c4499f64a0
 Section: Tweaks
 Description: تثبيت التطبيقات المدفوعة من خارج متجر البرامج
 Author: جنوبي مطنوخ
-Depiction: http://R-gnobi.github.io
+#Depiction: http://R-gnobi.github.io
 Name: appsyncunified
 
 Package: io.github.R-gnobi.instaTools
@@ -41,5 +41,5 @@ Section: Tweaks
 Description: اضافت ومميزات لتطبيق الانستقرام
 Author: جنوبي مطنوخ
 Maintainer: ramzi <ralslami2012@gmail.com>
-Depiction: http://R-gnobi.github.io
+#Depiction: http://R-gnobi.github.io
 Name: instaTools
