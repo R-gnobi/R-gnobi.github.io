@@ -1,13 +1,14 @@
 ﻿Package: io.github.R-gnobi.appsyncunified
 Version: 5.8
 Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 4.0)
-Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
+#Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate
 Filename: //deb/io.github.R-gnobi.appsyncunified_5.8_iphoneos-arm.deb
 Size: 30144
 MD5sum: 85112d081a3b1737571ce2c0f6a96a51
 SHA1: 0c9ff917ba24c3b5625a34de17e584c4499f64a0
-Section: System
+SHA256: 890ef8a07c314fd0304bb970df014657f218c83868366412a2cfd7bb74cf799e
+Section: Tweaks
 Description: تثبيت التطبيقات المدفوعة من خارج متجر البرامج
 Author: جنوبي مطنوخ
 #Depiction: http://R-gnobi.github.io
@@ -16,13 +17,14 @@ Name: AppSyncunified
 Package: io.github.R-gnobi.fontarabic
 Version: 1.5
 Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 4.0)
-Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
+#Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate
 Filename: //deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
 Size: 31696670
 MD5sum: 7f24b609be74db63207912f574ffb4ac
 SHA1: a319695438343c47d37709a303f0680c95c8d181
-Section: Tweaks
+SHA256: dd608e7cb3b15131c00545f09683c2d39a8e4e664caf875f1403a047e85c89c8
+Section: System
 Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو.
 Author: جنوبي مطنوخ
 #Depiction: http://R-gnobi.github.io
@@ -31,12 +33,13 @@ Name: Font Arabic
 Package: io.github.R-gnobi.instaTools
 Version: 1.3.0-1
 Architecture: iphoneos-arm
-Pre-Depends: firmware (>= 4.0)
-Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
+#Pre-Depends: firmware (>= 4.0)
+Depends: mobilesubstrate
 Filename: //deb/io.github.R-gnobi.instaTools_1.3.0-1_iphoneos-arm.deb
 Size: 406198
 MD5sum: 92f8abafa1d74dbfa17445b9f9933d76
 SHA1: 59410d6291c2d64c54bb8b815171204dfb6ab892
+SHA256: 2e6ecb2d6ad7615e49583d1ee6f4485b94740b5c245d8358ac5a01abc65a7cb2
 Section: Tweaks
 Description: اضافت ومميزات لتطبيق الانستقرام
 Author: جنوبي مطنوخ
@@ -48,14 +51,14 @@ Package: io.github.R-gnobi.BBM+
 Version: 2.0.0
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0)
-Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
+Depends: mobilesubstrate
 Filename: //deb/bbm_2.0.0.deb
 Size: 63500
 MD5sum: d78c8cc5e7beb2af4178abeed0723532
 SHA1: 2bd146cf145def5e4eb750255e6ad028a94499b3
 SHA256: caa493d24e7930022f5d1d9201c2a92908aee945b2f4fd0a0aa29aa2569ea49d
 Section: Tweaks
-Description: خصائص ومميزات لتطبيق BBM
+Description: BBM خصائص ومميزات لتطبيق 
 Author: جنوبي مطنوخ
 #Depiction: http://R-gnobi.github.io
 Name: BBM +
