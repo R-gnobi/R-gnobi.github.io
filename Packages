@@ -49,11 +49,12 @@ Version: 2.0.0
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
-Filename: //deb/io.github.R-gnobi.BBM+_2.0.0_iphoneos-arm.deb
-Size: 63536
-MD5sum: 8aaa649479951e1e5d9d026f9c680641
-SHA1: f3a5f9db9f4959aca6ec9c96d2cf6f3dddf6e62f
-Section: System
+Filename: //deb/bbm_2.0.0.deb
+Size: 63500
+MD5sum: d78c8cc5e7beb2af4178abeed0723532
+SHA1: 2bd146cf145def5e4eb750255e6ad028a94499b3
+SHA256: caa493d24e7930022f5d1d9201c2a92908aee945b2f4fd0a0aa29aa2569ea49d
+Section: Tweaks
 Description: خصائص ومميزات لتطبيق BBM
 Author: جنوبي مطنوخ
 #Depiction: http://R-gnobi.github.io
