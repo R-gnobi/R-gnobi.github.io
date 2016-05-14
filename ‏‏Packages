@@ -3,7 +3,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
-Filename: ./deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
+Filename: .//deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
 Size: 31696670
 MD5sum: 7f24b609be74db63207912f574ffb4ac
 SHA1: a319695438343c47d37709a303f0680c95c8d181
@@ -19,7 +19,7 @@ Version: 5.8
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
-Filename: ./deb/io.github.R-gnobi.appsyncunified_5.8_iphoneos-arm.deb
+Filename: .//deb/io.github.R-gnobi.appsyncunified_5.8_iphoneos-arm.deb
 Size: 30144
 MD5sum: 85112d081a3b1737571ce2c0f6a96a51
 SHA1: 0c9ff917ba24c3b5625a34de17e584c4499f64a0
@@ -35,7 +35,7 @@ Version: 5.8
 Architecture: iphoneos-arm
 Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
-Filename: ./deb/io.github.R-gnobi.appsyncunified_5.8_iphoneos-arm.deb
+Filename: .//deb/io.github.R-gnobi.appsyncunified_5.8_iphoneos-arm.deb
 Size: 406198
 MD5sum: 92f8abafa1d74dbfa17445b9f9933d76
 SHA1: 59410d6291c2d64c54bb8b815171204dfb6ab892
