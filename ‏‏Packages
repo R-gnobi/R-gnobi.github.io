@@ -1,0 +1,24 @@
+﻿Package: io.github.R-gnobi.fontarabic
+
+Version: 1.5
+Architecture: iphoneos-arm
+
+Pre-Depends: firmware (>= 4.0)
+
+Depends: mobilesubstrate (>= 0.9.5000), applist (>= 1.5.10)
+
+Filename: ./deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
+Size: 31696670
+MD5sum: 7f24b609be74db63207912f574ffb4ac
+
+SHA1: a319695438343c47d37709a303f0680c95c8d181
+
+SHA256: dd608e7cb3b15131c00545f09683c2d39a8e4e664caf875f1403a047e85c89c8
+
+Section: Tweaks
+
+Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو.
+
+Author: جنوبي مطنوخ
+Depiction: http://R-gnobi.github.io
+Name: 3G Unrestrictor 5 8 n 9
