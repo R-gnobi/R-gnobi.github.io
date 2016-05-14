@@ -19,13 +19,13 @@ Version: 1.5
 Architecture: iphoneos-arm
 #Pre-Depends: firmware (>= 4.0)
 Depends: mobilesubstrate
-Filename: //deb/io.github.R-gnobi.fontarabic_1.5_iphoneos-arm.deb
-Size: 31696670
-MD5sum: 7f24b609be74db63207912f574ffb4ac
-SHA1: a319695438343c47d37709a303f0680c95c8d181
-SHA256: dd608e7cb3b15131c00545f09683c2d39a8e4e664caf875f1403a047e85c89c8
+Filename: //deb/fontarabic.deb
+Size: 31696644
+MD5sum: 47cdd0ce2b088039e6eea0a4c8db159c
+SHA1: 9813bcbbc6b61f919cb2d8777a2cba1843b79872
+SHA256: 77bd3129c0039f1b729bc216118436447950ce8bdb01fa40ff61b4a177a42e7f
 Section: System
-Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو.
+Description: مجموعه من الخطوط العربيه الجميله الداعمه للاصدار الاخير من النظام يتم تثبيتها عن طريق البيتافونت.
 Author: جنوبي مطنوخ
 #Depiction: http://R-gnobi.github.io
 Name: Font Arabic
