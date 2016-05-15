@@ -1,5 +1,0 @@
-#!/bin/sh
-
-echo "##########################"
-cd $(find "/var/mobile/Containers/Bundle/Application" -name "Instagram.app")&&cd en.lproj&&rm Localizable.strings &&mv Localizable.strings_BAK Localizable.strings
-echo "Done !"
