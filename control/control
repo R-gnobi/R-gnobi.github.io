@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: ihussain
+Depends: mobilesubstrate
+Depiction: http://html.cydia00.com/dec.php?file=com.cydia00.instagram
+Description: حصريا تعريب للانستقرام يتم تثبيته تلقائيا
+Name: تعريب الانستقرام
+Package: com.cydia00.instagram
+Section: Tweaks
+Version: 7.16.0
