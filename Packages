@@ -57,20 +57,22 @@ Version: 1.3.0-1
 Filename: deb//io.github.r-gnobi.instaTools_1.3.0-1_iphoneos-arm.deb
 Size: 406198
 MD5sum: 92f8abafa1d74dbfa17445b9f9933d76
+SHA1: 59410d6291c2d64c54bb8b815171204dfb6ab892
+SHA256: 2e6ecb2d6ad7615e49583d1ee6f4485b94740b5c245d8358ac5a01abc65a7cb2
 
 Package: io.github.r-gnobi.cccontrols
 Version: 1.3b-2k
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: deb//cccontrols.deb
-Size: 478696
-MD5sum: 78dc56dda93714fa0e4a1882ca8db11a
-SHA1: 5da9d8006048e8ffb41ed4ca77a42fb440c9e549
-SHA256: 1332f4e5b4a5611a9cbd9602ed72604631d6aa34cbd5b924b315c088fe5ef7bc
-Section: Tweaks
+Filename: deb//com.cydia00.cccontrols.deb
+Size: 478674
+MD5sum: e6ddd616c928fe826657cac7e52176db
+SHA1: d506670e4057b6ffc1db0cec3d3c058d67dd440a
+SHA256: 9045e68001a4f7859899cade6bd447cd921e4ca99c44176c30c62a18acca33d4
+Section: System
 Priority: optional
 Description: اضافة اختصارات لمركز التحكم والكثير من الاعدادات
 Tag: purpose::cccontrols
 Author: ramzi <ralslami2012@gmail.com>
 Dev: r-gnobi
-Name: cccontrols
+Name: CCControls iOS 9
