@@ -31,7 +31,7 @@ MD5sum: 7f24b609be74db63207912f574ffb4ac
 Package: io.github.r-gnobi.BBM+
 Name: BBM+
 Architecture: iphoneos-arm
-Description: خصائص ومميزات لتطبيق BBM
+Description: خصائص و مميزات اضافية لتطبيق BBM
 Hompage: http://R-gnobi.github.io
 #depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
@@ -40,8 +40,8 @@ Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Version: 1.5
 Filename: //deb/io.github.r-gnobi.BBM+_2.0.0_iphoneos-arm.deb
-Size: 63536
-MD5sum: 8aaa649479951e1e5d9d026f9c680641
+Size: 63740
+MD5sum: c269f460f66a27222cc0426e6a9e1d69
 
 Package: io.github.r-gnobi.instaTools
 Name: instaTools
