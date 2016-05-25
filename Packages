@@ -6,7 +6,7 @@ Hompage: http://R-gnobi.github.io
 #depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
 Author: Linus Yang, Karen Tsai 
-Section: Tweaks
+Section: System
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Version: 5.8
 Filename: //deb/io.github.r-gnobi.appsyncunified_5.8_iphoneos-arm.deb
@@ -87,3 +87,18 @@ Version: 1.0.2R
 Filename: //deb/io.github.r-gnobi.personalassistant_1.0.2R_iphoneos-arm.deb
 Size: 851122
 MD5sum: 7275102e6e3e85ed83e3e49cfbf54447
+
+Package: io.github.r-gnobi.personalassistant
+Name: personalassistant
+Architecture: iphoneos-arm
+Description: عرض النتبيهات بشكل جميل في شاشة القفل
+Hompage: http://R-gnobi.github.io
+#depiction: http://R-gnobi.github.io
+Maintainer: ramzi <ralslami2012@gmail.com>
+Author: TIGI Software <satashi2009@gmail.com>
+Section: Utilies
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Version: 3.0.4-1
+Filename: //deb/io.github.r-gnobi.filza_3.0.4-1_iphoneos-arm.deb
+Size: 12376268
+MD5sum: 6331ea6ae1edca4715a6129370ada7f5
