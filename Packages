@@ -40,8 +40,8 @@ Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Version: 2.0.0
 Filename: //deb/io.github.r-gnobi.BBM+_2.0.0_iphoneos-arm.deb
-Size: 63740
-MD5sum: c269f460f66a27222cc0426e6a9e1d69
+Size: 63658
+MD5sum: d8eb2b55e0bd0971f3bd171a0b68dc78
 
 Package: io.github.r-gnobi.instaTools
 Name: instaTools
