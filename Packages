@@ -38,7 +38,7 @@ Maintainer: ramzi <ralslami2012@gmail.com>
 Author: جنوبي مطنوخ
 Section: Tweaks
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Version: 1.5
+Version: 2.0.0
 Filename: //deb/io.github.r-gnobi.BBM+_2.0.0_iphoneos-arm.deb
 Size: 63740
 MD5sum: c269f460f66a27222cc0426e6a9e1d69
