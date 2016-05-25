@@ -88,10 +88,10 @@ Filename: //deb/io.github.r-gnobi.personalassistant_1.0.2R_iphoneos-arm.deb
 Size: 851122
 MD5sum: 7275102e6e3e85ed83e3e49cfbf54447
 
-Package: io.github.r-gnobi.personalassistant
-Name: personalassistant
+Package: io.github.r-gnobi.filza
+Name: Filza File Manager
 Architecture: iphoneos-arm
-Description: عرض النتبيهات بشكل جميل في شاشة القفل
+Description: مدير الملفات وبديل اي فايل بمميزات جميلة ورائعة
 Hompage: http://R-gnobi.github.io
 #depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
