@@ -3,11 +3,10 @@ Name: AppSyncunified
 Architecture: iphoneos-arm
 Description: تثبيت التطبيقات المدفوعة من خارج متجر البرامج
 Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
 Author: Linus Yang, Karen Tsai 
-Section: System
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2)
 Version: 5.8
 Filename: //deb/io.github.r-gnobi.appsyncunified_5.8_iphoneos-arm.deb
 Size: 30144
@@ -93,7 +92,6 @@ Name: Filza File Manager
 Architecture: iphoneos-arm
 Description: مدير الملفات وبديل اي فايل بمميزات جميلة ورائعة
 Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
 Author: TIGI Software <satashi2009@gmail.com>
 Section: Utilies
