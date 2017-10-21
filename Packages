@@ -1,17 +1,3 @@
-Package: io.github.r-gnobi.appsyncunified
-Name: AppSyncunified
-Architecture: iphoneos-arm
-Description: تثبيت التطبيقات المدفوعة من خارج متجر البرامج
-Hompage: http://R-gnobi.github.io
-Maintainer: ramzi <ralslami2012@gmail.com>
-Author: Linus Yang, Karen Tsai 
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2)
-Version: 5.8
-Filename: //deb/io.github.r-gnobi.appsyncunified_5.8_iphoneos-arm.deb
-Size: 30144
-MD5sum: 85112d081a3b1737571ce2c0f6a96a51
-
 Package: io.github.r-gnobi.fontarabic
 Name: Font Arabic
 Architecture: iphoneos-arm
@@ -42,36 +28,6 @@ Filename: //deb/io.github.r-gnobi.BBM+_2.0.0_iphoneos-arm.deb
 Size: 63658
 MD5sum: d8eb2b55e0bd0971f3bd171a0b68dc78
 
-Package: io.github.r-gnobi.instaTools
-Name: instaTools
-Architecture: iphoneos-arm
-Description: اضافت ومميزات لتطبيق الانستقرام
-Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
-Maintainer: ramzi <ralslami2012@gmail.com>
-Author: جنوبي مطنوخ
-Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Version: 1.3.0-1
-Filename: //deb/io.github.r-gnobi.instaTools_1.3.0-1_iphoneos-arm.deb
-Size: 406198
-MD5sum: 92f8abafa1d74dbfa17445b9f9933d76
-
-Package: io.github.r-gnobi.instaTools
-Name: instaTools
-Architecture: iphoneos-arm
-Description: اضافت ومميزات لتطبيق الانستقرام
-Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
-Maintainer: ramzi <ralslami2012@gmail.com>
-Author: جنوبي مطنوخ
-Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Version: 1.3.0-1
-Filename: //deb/io.github.r-gnobi.instaTools_1.3.0-1_iphoneos-arm.deb
-Size: 406198
-MD5sum: 92f8abafa1d74dbfa17445b9f9933d76
-
 Package: io.github.r-gnobi.personalassistant
 Name: personalassistant
 Architecture: iphoneos-arm
@@ -86,17 +42,3 @@ Version: 1.0.2R
 Filename: //deb/io.github.r-gnobi.personalassistant_1.0.2R_iphoneos-arm.deb
 Size: 851122
 MD5sum: 7275102e6e3e85ed83e3e49cfbf54447
-
-Package: io.github.r-gnobi.filza
-Name: Filza File Manager
-Architecture: iphoneos-arm
-Description: مدير الملفات وبديل اي فايل بمميزات جميلة ورائعة
-Hompage: http://R-gnobi.github.io
-Maintainer: ramzi <ralslami2012@gmail.com>
-Author: TIGI Software <satashi2009@gmail.com>
-Section: Utilies
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
-Version: 3.0.4-1
-Filename: //deb/io.github.r-gnobi.filza_3.0.4-1_iphoneos-arm.deb
-Size: 12376268
-MD5sum: 6331ea6ae1edca4715a6129370ada7f5
