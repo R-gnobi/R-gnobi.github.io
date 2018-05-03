@@ -1,44 +1,32 @@
-Package: io.github.r-gnobi.fontarabic
-Name: Font Arabic
-Architecture: iphoneos-arm
-Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو
-Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
-Maintainer: ramzi <ralslami2012@gmail.com>
-Author: جنوبي مطنوخ
-Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Package: io.github.r-gnobi.tweak.fontarabic
+Depiction: #
 Version: 1.5
-Filename: //deb/io.github.r-gnobi.fontarabic_1.5_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Maintainer: ramzi <ralslami2012@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), xyz.evilgoldfish.lockglyphx
+Filename: deb/io.github.r-gnobi.tweak.fontarabic_1.5_iphoneos-arm.deb
 Size: 31696670
 MD5sum: 7f24b609be74db63207912f574ffb4ac
-
-Package: io.github.r-gnobi.BBM+
-Name: BBM+
-Architecture: iphoneos-arm
-Description: خصائص و مميزات اضافية لتطبيق BBM
-Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
-Maintainer: ramzi <ralslami2012@gmail.com>
+SHA1: 
+SHA256: 
+Section: Tweaks (fontarabic)
+Description: مجموعة خطوط عربية لتثبيتها عبر اداة الفونتو
 Author: جنوبي مطنوخ
-Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Name: Font Arabic
+
+Package: io.github.r-gnobi.tweak.BBM+
+Depiction: #
 Version: 2.0.0
-Filename: //deb/io.github.r-gnobi.BBM+_2.0.0_iphoneos-arm.deb
-Size: 63658
-MD5sum: d8eb2b55e0bd0971f3bd171a0b68dc78
-
-Package: io.github.r-gnobi.personalassistant
-Name: personalassistant
 Architecture: iphoneos-arm
-Description: عرض النتبيهات بشكل جميل في شاشة القفل
-Hompage: http://R-gnobi.github.io
-#depiction: http://R-gnobi.github.io
 Maintainer: ramzi <ralslami2012@gmail.com>
+Installed-Size: 63658
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Filename: deb/io.github.r-gnobi.tweak.BBM+_2.0.0_iphoneos-arm.deb
+Size: 8126
+MD5sum: d8eb2b55e0bd0971f3bd171a0b68dc78
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: خصائص ومميزات اضاقية لتطبيق بي بي ام.
 Author: جنوبي مطنوخ
-Section: HYI - Tweaks
-Depends: mobilesubstrate, firmware (>= 8.0), firmware (<< 10.0), preferenceloader, applist (>= 1.5.11), org.thebigboss.libcolorpicker (>= 1.4-2), com.tweakwiz.wizlib
-Version: 1.0.2R
-Filename: //deb/io.github.r-gnobi.personalassistant_1.0.2R_iphoneos-arm.deb
-Size: 851122
-MD5sum: 7275102e6e3e85ed83e3e49cfbf54447
+Name: BBM+

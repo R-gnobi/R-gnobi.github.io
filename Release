@@ -1,11 +1,19 @@
-Origin: cydiaa1-جنوبي مطنوخ
-Label: cydiaa1-سورس مطنوخ
+Origin: جنوبي مطنوخ
+
+Label: cydiaa1
+
 Suite: stable
-Version: 1.0
-Codename: cydiaa1-سورس مطنوخ
+
+Version: 1.2
+
+Codename: ios
+
 Architectures: iphoneos-arm
+
 Components: main
-Description: كل ما تحتاجة من ادوات معربة وتحديثاتها باستمرار
+
+Description: افضل سورس عربي بحت
+
 MD5Sum:
-aa0292902d5fcc4f61873289bf25fa83 7731 Packages
-0d6300f6f261dd1456e2cc16f020d9df 2005 Packages.bz2
+4fcfcef3bd551e2353180fec3fe943b9 11106 Packages
+28cbef2d23dc93b3bcfdba707d752c96 4046 Packages.bz2

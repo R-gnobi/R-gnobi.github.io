@@ -1,0 +1,11 @@
+Origin: cydiaa1-جنوبي مطنوخ
+Label: cydiaa1-سورس مطنوخ
+Suite: stable
+Version: 1.0
+Codename: cydiaa1-سورس مطنوخ
+Architectures: iphoneos-arm
+Components: main
+Description: كل ما تحتاجة من ادوات معربة وتحديثاتها باستمرار
+MD5Sum:
+aa0292902d5fcc4f61873289bf25fa83 7731 Packages
+0d6300f6f261dd1456e2cc16f020d9df 2005 Packages.bz2
