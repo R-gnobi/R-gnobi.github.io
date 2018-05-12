@@ -1,2 +1,2 @@
 # اهلا بكم في سورس مطنوخ 
- cydiaa.github.io 
+r-gnobi.github.io/cydiaa.github.io/ 
